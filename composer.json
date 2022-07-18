@@ -39,7 +39,7 @@
     "config": {
         "sort-packages": true
     },
-    repositories: [
+    "repositories": [
         {
             "url": "https://github.com/theinizio/flysystem-backblaze.git",
             "type": "git"
